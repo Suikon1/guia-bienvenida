@@ -1,1 +1,2 @@
 Bienvenido al equivo DevSoft!
+Recuerda seguir nuestra guía de estilo para escribir documentos.
